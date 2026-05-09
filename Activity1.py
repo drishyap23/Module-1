@@ -1,1 +1,5 @@
 print("Welcome Python Programming")
+print(4)
+print("The number being printed is", 4)
+print("\nI am Penguin")
+print("The sum of 3 + 5 equals", 3 + 5)
