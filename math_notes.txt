@@ -1,0 +1,4 @@
+PEMDAS means Parentheses, Exponents, Multiplication, Division, Addition, Subtraction
+The Quadratic Formula is used to solve for x
+Triangles are 180 degrees
+Squares are 360 degrees
